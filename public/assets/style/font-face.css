@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Spirit';
+    src: url('type/spirit/Spirit.woff2') format('woff2'),
+        url('type/spirit/Spirit.woff') format('woff'),
+        url('type/spirit/Spirit.ttf') format('truetype'),
+        url('type/spirit/Spirit.svg#Spirit') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'lacythefool';
+    src: url('type/lacy/lacythefool.woff2') format('woff2'),
+        url('type/lacy/lacythefool.woff') format('woff'),
+        url('type/lacy/lacythefool.ttf') format('truetype'),
+        url('type/lacy/lacythefool.svg#lacythefool') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'THEHeart';
+    src: url('type/theheart/THEHeart.woff2') format('woff2'),
+        url('type/theheart/THEHeart.woff') format('woff'),
+        url('type/theheart/THEHeart.ttf') format('truetype'),
+        url('type/theheart/THEHeart.svg#THEHeart') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
